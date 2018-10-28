@@ -1,6 +1,6 @@
 # Example project for how to embded UITextView inside UITableView
 
-Details [here]()
+Details [here](https://medium.com/@georgetsifrikas/embedding-uitextview-inside-uitableviewcell-9a28794daf01).
 
 ## License
  
